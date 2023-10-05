@@ -1,0 +1,45 @@
+C:\Users\Arik\source\repos\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Arik\source\repos\Project\Project\bin\Debug\Project.exe
+C:\Users\Arik\source\repos\Project\Project\bin\Debug\Project.pdb
+C:\Users\Arik\source\repos\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Arik\source\repos\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\Arik\source\repos\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Arik\source\repos\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Arik\source\repos\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Arik\source\repos\Project\Project\obj\Debug\Project.exe
+C:\Users\Arik\source\repos\Project\Project\obj\Debug\Project.pdb
+C:\Users\Arik\source\repos\Project\Project\obj\Debug\Project.Register.resources
+C:\Users\Arik\source\repos\Project\Project\obj\Debug\Project.PasswordRestore.resources
+C:\Users\Arik\source\repos\Project\Project\obj\Debug\Project.SuccessfulLogin.resources
+C:\Users\Arik\source\repos\Project\Project\obj\Debug\Project.whichEmail.resources
+C:\Users\Arik\source\repos\Project\Project\obj\Debug\Project.setPassword.resources
+C:\Users\orize\Documents\MEGA\MEGAsync\Study\Computer Engineering\year d\sql_lab\HW3\New folder (2)\Project\bin\Debug\Project.exe.config
+C:\Users\orize\Documents\MEGA\MEGAsync\Study\Computer Engineering\year d\sql_lab\HW3\New folder (2)\Project\bin\Debug\Project.exe
+C:\Users\orize\Documents\MEGA\MEGAsync\Study\Computer Engineering\year d\sql_lab\HW3\New folder (2)\Project\bin\Debug\Project.pdb
+C:\Users\orize\Documents\MEGA\MEGAsync\Study\Computer Engineering\year d\sql_lab\HW3\New folder (2)\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\orize\Documents\MEGA\MEGAsync\Study\Computer Engineering\year d\sql_lab\HW3\New folder (2)\Project\obj\Debug\Project.Login.resources
+C:\Users\orize\Documents\MEGA\MEGAsync\Study\Computer Engineering\year d\sql_lab\HW3\New folder (2)\Project\obj\Debug\Project.PasswordRestore.resources
+C:\Users\orize\Documents\MEGA\MEGAsync\Study\Computer Engineering\year d\sql_lab\HW3\New folder (2)\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\orize\Documents\MEGA\MEGAsync\Study\Computer Engineering\year d\sql_lab\HW3\New folder (2)\Project\obj\Debug\Project.Register.resources
+C:\Users\orize\Documents\MEGA\MEGAsync\Study\Computer Engineering\year d\sql_lab\HW3\New folder (2)\Project\obj\Debug\Project.setPassword.resources
+C:\Users\orize\Documents\MEGA\MEGAsync\Study\Computer Engineering\year d\sql_lab\HW3\New folder (2)\Project\obj\Debug\Project.SuccessfulLogin.resources
+C:\Users\orize\Documents\MEGA\MEGAsync\Study\Computer Engineering\year d\sql_lab\HW3\New folder (2)\Project\obj\Debug\Project.whichEmail.resources
+C:\Users\orize\Documents\MEGA\MEGAsync\Study\Computer Engineering\year d\sql_lab\HW3\New folder (2)\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\orize\Documents\MEGA\MEGAsync\Study\Computer Engineering\year d\sql_lab\HW3\New folder (2)\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\orize\Documents\MEGA\MEGAsync\Study\Computer Engineering\year d\sql_lab\HW3\New folder (2)\Project\obj\Debug\Project.exe
+C:\Users\orize\Documents\MEGA\MEGAsync\Study\Computer Engineering\year d\sql_lab\HW3\New folder (2)\Project\obj\Debug\Project.pdb
+C:\Users\Arik\Desktop\New folder (2)\Project\bin\Debug\Project.exe.config
+C:\Users\Arik\Desktop\New folder (2)\Project\bin\Debug\Project.exe
+C:\Users\Arik\Desktop\New folder (2)\Project\bin\Debug\Project.pdb
+C:\Users\Arik\Desktop\New folder (2)\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Arik\Desktop\New folder (2)\Project\obj\Debug\Project.Login.resources
+C:\Users\Arik\Desktop\New folder (2)\Project\obj\Debug\Project.PasswordRestore.resources
+C:\Users\Arik\Desktop\New folder (2)\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Arik\Desktop\New folder (2)\Project\obj\Debug\Project.Register.resources
+C:\Users\Arik\Desktop\New folder (2)\Project\obj\Debug\Project.setPassword.resources
+C:\Users\Arik\Desktop\New folder (2)\Project\obj\Debug\Project.SuccessfulLogin.resources
+C:\Users\Arik\Desktop\New folder (2)\Project\obj\Debug\Project.whichEmail.resources
+C:\Users\Arik\Desktop\New folder (2)\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Arik\Desktop\New folder (2)\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Arik\Desktop\New folder (2)\Project\obj\Debug\Project.exe
+C:\Users\Arik\Desktop\New folder (2)\Project\obj\Debug\Project.pdb
